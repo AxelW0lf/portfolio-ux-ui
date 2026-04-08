@@ -37,9 +37,9 @@ El proyecto se enfocó en la UX/UI, mientras que un compañero desarrollaba la p
 - [Enlace](https://www.figma.com/design/jBLEm5eHYGjEwpTmvkBM3F/Expiration-date-UI-UX-phone?node-id=0-1&t=phSbqCcgSltkaApn-1) 
 
 - Cambios:
-  -Optimización para usuarios móviles
-  -Flujo más intuitivo de navegación
-  -Interactividad para visualizar navegación de manera más realista
+  - Optimización para usuarios móviles
+  - Flujo más intuitivo de navegación
+  - Interactividad para visualizar navegación de manera más realista
 
 ### Date picker premium (Figma Make - IA)
 
@@ -53,9 +53,9 @@ El proyecto se enfocó en la UX/UI, mientras que un compañero desarrollaba la p
 - [Enlace](https://www.figma.com/make/tjqXci5gkzBBaiohRWOf1u/Prototipo-funcional-para-m%C3%B3vil?t=KF6e4LjwGx3NQwMX-1) 
 
 - Cambios:
-  -Integración de todos los elementos anteriores
-  -Implementación de modo oscuro
-  -Ajustes finales de UI para facilitar el paso a front-end
+  - Integración de todos los elementos anteriores
+  - Implementación de modo oscuro
+  - Ajustes finales de UI para facilitar el paso a front-end
 
 # 6. Flujos de usuario
 
