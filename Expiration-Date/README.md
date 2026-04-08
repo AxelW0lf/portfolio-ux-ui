@@ -27,7 +27,7 @@ Decidí priorizar el uso móvil, ya que los empleados accederían principalmente
 
 ### Primera idea (Figma Make - IA)
 
-Enlace: https://www.figma.com/make/qc9oi2SkIeU32Qeoc79jMe/3dva-expired-date?p=f&t=3af0vCZb4K8dW34F-0
+[Enlace](https://www.figma.com/make/qc9oi2SkIeU32Qeoc79jMe/3dva-expired-date?t=C6ugOsvrfARDsr2R-1)
 
 Propósito: Explorar cómo se podría desarrollar la idea y visualizar un prototipo inicial.
 
@@ -35,7 +35,7 @@ Observación: Identifiqué mejoras necesarias en navegación y jerarquía visual
 
 
 ### Prototipo mejorado (Figma desing)
-Enlace: [Prototipo interactivo móvil](https://www.figma.com/design/jBLEm5eHYGjEwpTmvkBM3F/Expiration-date-UI-UX-phone?node-id=0-1&p=f&t=91sAY20CTTXniaT7-0)
+[Enlace](https://www.figma.com/design/jBLEm5eHYGjEwpTmvkBM3F/Expiration-date-UI-UX-phone?node-id=0-1&t=phSbqCcgSltkaApn-1)
 
 Cambios:
 Optimización para usuarios móviles
@@ -44,7 +44,7 @@ Interactividad para visualizar navegación de manera más realista
 
 ### Date picker premium (Figma Make - IA)
 
-Enlace: (https://www.figma.com/make/kryadKBMr73W3fa6L5fcII/Date-Picker-Dropdown?p=f&t=lVwmf72jYZ0eERX4-0)
+[Enlace](https://www.figma.com/make/kryadKBMr73W3fa6L5fcII/Date-Picker-Dropdown?t=qcpYdNJ0WVRB6HTZ-1)
 
 Propósito: Añadir un toque más premium y usable en la selección de fechas.
 
@@ -52,8 +52,7 @@ Observación: Visualización clara y cómoda para el usuario final.
 
 ### Prototipo final (Figma Make - IA)
 
-Enlace: https://www.figma.com/make/tjqXci5gkzBBaiohRWOf1u/Prototipo-funcional-para-móvil?p=f&t=vtp34tS198X5x53N-0&preview-route=%2Fadd-product
-
+[Enlace](https://www.figma.com/make/tjqXci5gkzBBaiohRWOf1u/Prototipo-funcional-para-m%C3%B3vil?t=KF6e4LjwGx3NQwMX-1)
 Cambios:
 Integración de todos los elementos anteriores
 Implementación de modo oscuro
