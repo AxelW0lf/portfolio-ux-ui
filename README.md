@@ -1,79 +1,35 @@
-# portfolio-ux-ui
+# Portfolio UX/UI – Déssirée CS.
 
-Caso de estudio: Expiration Date UX/UI
-# 1. Título del proyecto
+¡Bienvenido a mi portfolio! 👋
 
-“Sistema de notificaciones de productos con fechas de caducidad”
+Soy Déssirée CS, diseñador UX/UI con interés en crear experiencias digitales centradas en el usuario. Vengo del mundo visual y la imagen, y descubrí el diseño de producto y UX/UI por la combinación entre creatividad, lógica y enfoque en el usuario.  
 
-# 2. Objetivo
+En este espacio encontrarás proyectos personales y prototipos donde he explorado:
 
-El objetivo de este proyecto era diseñar un sistema que permitiera a los empleados de una empresa recibir notificaciones cuando determinados productos debían ser devueltos para poder devolverles los porcentajes correspondientes.
+- Diseño de interfaces y experiencia de usuario para web y móvil  
+- Prototipado interactivo con Figma  
+- Iteración y mejora de flujos de usuario  
 
-El proyecto se enfocó en la UX/UI, mientras que un compañero desarrollaba la parte de back-end. La idea era crear un flujo claro, intuitivo y adaptable a móviles, para que el sistema pudiera ser usado fácilmente desde cualquier dispositivo.
+Actualmente busco oportunidades para crecer y aprender de manera profesional, aplicando mis conocimientos en UX/UI y desarrollando proyectos que tengan un impacto real en los usuarios.  
 
-# 3. Problema / Insights
+---
 
-Los empleados necesitan un medio rápido para conocer qué productos requieren acción y en qué fechas.
-La información debía presentarse de forma clara y accesible, evitando confusiones y pasos innecesarios.
-El sistema debía contemplar notificaciones y alertas de manera organizada.
+## Proyectos
 
-# 4. Investigación / Inspiración
+### 1️⃣ Expiration Date – Sistema de notificaciones para productos con fechas de caducidad
+Este proyecto fue desarrollado como un trabajo conjunto, donde yo me encargué de la **UX/UI** y un compañero del **back-end**. La idea principal era ofrecer a los empleados un medio para recibir notificaciones cuando determinados productos debían ser devueltos y gestionar los porcentajes correspondientes.  
 
-Benchmarking de apps de gestión de tareas y calendario para ver cómo se manejan notificaciones y fechas.
-Observación de sistemas existentes en empresas con productos con caducidad.
-Decidí priorizar el uso móvil, ya que los empleados accederían principalmente desde sus teléfonos.
+**Evolución del prototipo:**
 
-# 5. Evolución del prototipo
+- [Primera idea con Figma Make](https://www.figma.com/make/qc9oi2SkIeU32Qeoc79jMe/3dva-expired-date?p=f&t=3af0vCZb4K8dW34F-0) – Explorar la idea inicial mediante IA.  
+- [Prototipo mejorado para móvil](https://www.figma.com/design/jBLEm5eHYGjEwpTmvkBM3F/Expiration-date-UI-UX-phone?node-id=0-1&p=t91sAY20CTTXniaT7-0) – Flujo más intuitivo y navegación interactiva.  
+- [Date picker premium](https://www.figma.com/make/kryadKBMr73W3fa6L5fcII/Date-Picker-Dropdown?p=f&t=lVwmf72jYZ0eERX4-0) – Selección de fechas con scroll vertical, estilo más premium.  
+- [Prototipo final con modo oscuro y date picker](https://www.figma.com/make/kryadKBMr73W3fa6L5fcII/Date-Picker-Dropdown?p=f&t=lVwmf72jYZ0eERX4-0) – Integración de todos los elementos y ajustes finales de UI.  
 
-### Primera idea (Figma Make - IA)
+Para ver el **caso de estudio completo con flujos, decisiones de diseño y reflexiones**, revisa el README dentro de la carpeta del proyecto:  
+[Expiration-Date/README.md](Expiration-Date/README.md)
 
-Enlace: https://www.figma.com/make/qc9oi2SkIeU32Qeoc79jMe/3dva-expired-date?p=f&t=3af0vCZb4K8dW34F-0
+---
 
-Propósito: Explorar cómo se podría desarrollar la idea y visualizar un prototipo inicial.
-
-Observación: Identifiqué mejoras necesarias en navegación y jerarquía visual.
-
-
-### Prototipo mejorado (Figma desing)
-Enlace: [Prototipo interactivo móvil](https://www.figma.com/design/jBLEm5eHYGjEwpTmvkBM3F/Expiration-date-UI-UX-phone?node-id=0-1&p=f&t=91sAY20CTTXniaT7-0)
-
-Cambios:
-Optimización para usuarios móviles
-Flujo más intuitivo de navegación
-Interactividad para visualizar navegación de manera más realista
-
-### Date picker premium (Figma Make - IA)
-
-Enlace: (https://www.figma.com/make/kryadKBMr73W3fa6L5fcII/Date-Picker-Dropdown?p=f&t=lVwmf72jYZ0eERX4-0)
-
-Propósito: Añadir un toque más premium y usable en la selección de fechas.
-
-Observación: Visualización clara y cómoda para el usuario final.
-
-### Prototipo final (Figma Make - IA)
-
-Enlace: https://www.figma.com/make/tjqXci5gkzBBaiohRWOf1u/Prototipo-funcional-para-móvil?p=f&t=vtp34tS198X5x53N-0&preview-route=%2Fadd-product
-
-Cambios:
-Integración de todos los elementos anteriores
-Implementación de modo oscuro
-Ajustes finales de UI para facilitar el paso a front-end
-
-# 6. Flujos de usuario
-
-Flujo principal:
-Inicio → Ver lista de productos → Seleccionar producto → Revisar fecha de devolución → Ajustar fecha con date picker → Guardar → Recibir notificación
-
-Explicación: Este flujo fue pensado para minimizar pasos, mantener claridad y que cualquier empleado pueda completar acciones sin confusión.
-
-# 7. Decisiones de diseño
-
-Colores: Se añadió modo oscuro para accesibilidad y contraste visual.
-Tipografía: Clara y legible en pantallas pequeñas.
-Interacción: El date picker vertical facilita la selección rápida de fechas.
-Jerarquía visual: Los productos con acciones más urgentes están destacados.
-Iteración: Cada prototipo mejoró la navegación y claridad según pruebas internas y observaciones propias.
-
-# 8. Reflexión final
-
-Este proyecto me permitió aplicar principios de UX/UI, trabajar en la interacción móvil y aprender a iterar prototipos rápidamente. Aunque fue un proyecto personal en colaboración con un desarrollador, me enseñó la importancia de tomar decisiones de diseño justificadas, centradas en el usuario y adaptables al desarrollo front-end.
+## Próximos proyectos
+A medida que desarrolle nuevos prototipos y casos de estudio, iré agregándolos aquí. Cada proyecto tendrá su propio README con documentación completa, capturas de pantalla y enlaces interactivos.
