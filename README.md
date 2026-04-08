@@ -1,7 +1,7 @@
 # portfolio-ux-ui
 
 Caso de estudio: Expiration Date UX/UI
-1. Título del proyecto
+# 1. Título del proyecto
 
 “Sistema de notificaciones de productos con fechas de caducidad”
 
