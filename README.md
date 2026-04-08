@@ -21,10 +21,10 @@ Este proyecto fue desarrollado como un trabajo conjunto, donde yo me encargué d
 
 **Evolución del prototipo:**
 
-- [Primera idea con Figma Make](https://www.figma.com/make/qc9oi2SkIeU32Qeoc79jMe/3dva-expired-date?p=f&t=3af0vCZb4K8dW34F-0) – Explorar la idea inicial mediante IA.  
-- [Prototipo mejorado para móvil](https://www.figma.com/design/jBLEm5eHYGjEwpTmvkBM3F/Expiration-date-UI-UX-phone?node-id=0-1&p=t91sAY20CTTXniaT7-0) – Flujo más intuitivo y navegación interactiva.  
-- [Date picker premium](https://www.figma.com/make/kryadKBMr73W3fa6L5fcII/Date-Picker-Dropdown?p=f&t=lVwmf72jYZ0eERX4-0) – Selección de fechas con scroll vertical, estilo más premium.  
-- [Prototipo final con modo oscuro y date picker](https://www.figma.com/make/kryadKBMr73W3fa6L5fcII/Date-Picker-Dropdown?p=f&t=lVwmf72jYZ0eERX4-0) – Integración de todos los elementos y ajustes finales de UI.  
+- [Primera idea con Figma Make](https://www.figma.com/make/qc9oi2SkIeU32Qeoc79jMe/3dva-expired-date?t=C6ugOsvrfARDsr2R-1) – Explorar la idea inicial mediante IA.  
+- [Prototipo mejorado para móvil](https://www.figma.com/design/jBLEm5eHYGjEwpTmvkBM3F/Expiration-date-UI-UX-phone?node-id=0-1&t=phSbqCcgSltkaApn-1) – Flujo más intuitivo y navegación interactiva.  
+- [Date picker premium](https://www.figma.com/make/kryadKBMr73W3fa6L5fcII/Date-Picker-Dropdown?t=qcpYdNJ0WVRB6HTZ-1) – Selección de fechas con scroll vertical, estilo más premium.  
+- [Prototipo final con modo oscuro y date picker](https://www.figma.com/make/tjqXci5gkzBBaiohRWOf1u/Prototipo-funcional-para-m%C3%B3vil?t=KF6e4LjwGx3NQwMX-1) – Integración de todos los elementos y ajustes finales de UI.  
 
 Para ver el **caso de estudio completo con flujos, decisiones de diseño y reflexiones**, revisa el README dentro de la carpeta del proyecto:  
 [Expiration-Date/README.md](Expiration-Date/README.md)
