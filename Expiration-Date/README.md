@@ -1,79 +1,76 @@
-# portfolio-ux-ui
+# UX/UI Portfolio Case Study: Expiration Date
 
-Caso de estudio: Expiration Date UX/UI
-# 1. Título del proyecto
+## 1. Project Title
 
-“Sistema de notificaciones de productos con fechas de caducidad”
+“Notification system for products with expiration dates”
 
-# 2. Objetivo
+## 2. Objective
 
-El objetivo de este proyecto era diseñar un sistema que permitiera a los empleados de una empresa recibir notificaciones cuando determinados productos debían ser devueltos para poder devolverles los porcentajes correspondientes.
+The goal of this project was to design a system that allowed company employees to receive notifications when certain products needed to be returned, so they could manage the corresponding reimbursements.
 
-El proyecto se enfocó en la UX/UI, mientras que un compañero desarrollaba la parte de back-end. La idea era crear un flujo claro, intuitivo y adaptable a móviles, para que el sistema pudiera ser usado fácilmente desde cualquier dispositivo.
+The focus was on UX/UI, while a teammate handled the back-end development. The idea was to create a clear, intuitive, and mobile-adaptable flow so the system could be easily used from any device.
 
-# 3. Problema / Insights
+## 3. Problem / Insights
 
-Los empleados necesitan un medio rápido para conocer qué productos requieren acción y en qué fechas.
-La información debía presentarse de forma clara y accesible, evitando confusiones y pasos innecesarios.
-El sistema debía contemplar notificaciones y alertas de manera organizada.
+- Employees need a quick way to know which products require action and on what dates.  
+- Information had to be presented clearly and accessibly, avoiding confusion and unnecessary steps.  
+- The system needed to handle notifications and alerts in an organized manner.
 
-# 4. Investigación / Inspiración
+## 4. Research / Inspiration
 
-Benchmarking de apps de gestión de tareas y calendario para ver cómo se manejan notificaciones y fechas.
-Observación de sistemas existentes en empresas con productos con caducidad.
-Decidí priorizar el uso móvil, ya que los empleados accederían principalmente desde sus teléfonos.
+- Benchmarking task management and calendar apps to understand how notifications and dates are handled.  
+- Observing existing systems in companies with products that have expiration dates.  
+- Prioritized mobile use since employees would mainly access it via their phones.
 
-# 5. Evolución del prototipo
+## 5. Prototype Evolution
 
-### Primera idea (Figma Make - IA)
+### Initial idea (Figma Make - AI)
 
-- [Enlace](https://www.figma.com/make/qc9oi2SkIeU32Qeoc79jMe/3dva-expired-date?t=C6ugOsvrfARDsr2R-1)
+- [Link](https://www.figma.com/make/qc9oi2SkIeU32Qeoc79jMe/3dva-expired-date?t=C6ugOsvrfARDsr2R-1)  
 
-- Propósito: Explorar cómo se podría desarrollar la idea y visualizar un prototipo inicial.
+- Purpose: Explore how the idea could be developed and visualize an initial prototype.  
+- Observation: Identified necessary improvements in navigation and visual hierarchy.
 
-- Observación: Identifiqué mejoras necesarias en navegación y jerarquía visual.
+### Improved prototype (Figma Design)
 
+- [Link](https://www.figma.com/design/jBLEm5eHYGjEwpTmvkBM3F/Expiration-date-UI-UX-phone?node-id=0-1&t=phSbqCcgSltkaApn-1)  
 
-### Prototipo mejorado (Figma desing)
-- [Enlace](https://www.figma.com/design/jBLEm5eHYGjEwpTmvkBM3F/Expiration-date-UI-UX-phone?node-id=0-1&t=phSbqCcgSltkaApn-1) 
+- Changes:  
+  - Optimization for mobile users  
+  - More intuitive navigation flow  
+  - Interactivity to better visualize navigation realistically
 
-- Cambios:
-Optimización para usuarios móviles
-Flujo más intuitivo de navegación
-Interactividad para visualizar navegación de manera más realista
+### Premium date picker (Figma Make - AI)
 
-### Date picker premium (Figma Make - IA)
+- [Link](https://www.figma.com/make/kryadKBMr73W3fa6L5fcII/Date-Picker-Dropdown?t=qcpYdNJ0WVRB6HTZ-1)  
 
-- [Enlace](https://www.figma.com/make/kryadKBMr73W3fa6L5fcII/Date-Picker-Dropdown?t=qcpYdNJ0WVRB6HTZ-1)
+- Purpose: Add a more premium and usable date selection feature.  
+- Observation: Clear and comfortable visualization for the end user.
 
-- Propósito: Añadir un toque más premium y usable en la selección de fechas.
+### Final prototype (Figma Make - AI)
 
-- Observación: Visualización clara y cómoda para el usuario final.
+- [Link](https://www.figma.com/make/tjqXci5gkzBBaiohRWOf1u/Prototipo-funcional-para-m%C3%B3vil?t=KF6e4LjwGx3NQwMX-1)  
 
-### Prototipo final (Figma Make - IA)
+- Changes:  
+  - Integration of all previous elements  
+  - Implementation of dark mode  
+  - Final UI adjustments to ease front-end handoff
 
-- [Enlace](https://www.figma.com/make/tjqXci5gkzBBaiohRWOf1u/Prototipo-funcional-para-m%C3%B3vil?t=KF6e4LjwGx3NQwMX-1) 
+## 6. User Flows
 
-- Cambios:
-Integración de todos los elementos anteriores
-Implementación de modo oscuro
-Ajustes finales de UI para facilitar el paso a front-end
+Main flow:  
+Start → View product list → Select product → Review return date → Adjust date with date picker → Save → Receive notification
 
-# 6. Flujos de usuario
+Explanation: This flow was designed to minimize steps, maintain clarity, and allow any employee to complete tasks without confusion.
 
-Flujo principal:
-Inicio → Ver lista de productos → Seleccionar producto → Revisar fecha de devolución → Ajustar fecha con date picker → Guardar → Recibir notificación
+## 7. Design Decisions
 
-Explicación: Este flujo fue pensado para minimizar pasos, mantener claridad y que cualquier empleado pueda completar acciones sin confusión.
+- Colors: Dark mode was added for accessibility and visual contrast.  
+- Typography: Clear and legible on small screens.  
+- Interaction: Vertical date picker facilitates quick date selection.  
+- Visual hierarchy: Products requiring urgent action are highlighted.  
+- Iteration: Each prototype improved navigation and clarity based on internal tests and observations.
 
-# 7. Decisiones de diseño
+## 8. Final Reflection
 
-Colores: Se añadió modo oscuro para accesibilidad y contraste visual.
-Tipografía: Clara y legible en pantallas pequeñas.
-Interacción: El date picker vertical facilita la selección rápida de fechas.
-Jerarquía visual: Los productos con acciones más urgentes están destacados.
-Iteración: Cada prototipo mejoró la navegación y claridad según pruebas internas y observaciones propias.
-
-# 8. Reflexión final
-
-Este proyecto me permitió aplicar principios de UX/UI, trabajar en la interacción móvil y aprender a iterar prototipos rápidamente. Aunque fue un proyecto personal en colaboración con un desarrollador, me enseñó la importancia de tomar decisiones de diseño justificadas, centradas en el usuario y adaptables al desarrollo front-end.
+This project allowed me to apply UX/UI principles, work on mobile interactions, and learn rapid prototyping iteration. Although it was a personal project in collaboration with a developer, it taught me the importance of justified design decisions, user-centered focus, and adaptability for front-end development.
